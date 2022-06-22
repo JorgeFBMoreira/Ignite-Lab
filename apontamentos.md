@@ -6,9 +6,11 @@ Em futuras aulas, posso criar vários documentos para apontamentos a fim de deix
 
 ## Video-aulas - Commits
 1ª vídeo aula: 
-- Título: O início da especialização em ReactJS
-- Commit: 5992f8f9867d86dcb068f78cd9ea6d4606136c3a
-
+- Título: Ignite Lab | Aula 1 • O início da especialização em ReactJS;
+- Commit: 5992f8f9867d86dcb068f78cd9ea6d4606136c3a.
+2ª vídeo-aula:
+- Título: Ignite Lab | Aula 2 • Estrutura visual do projeto;
+- Commit: 74d6ffdac5d86a432f661eae06815ec26658c25e.
 
 ## Apontamentos
 
