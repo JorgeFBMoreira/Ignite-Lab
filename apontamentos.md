@@ -29,6 +29,12 @@ Desta forma vite consegue se integrar com o tailwind em si.
 Usaremos o Apollo no lugar de outras bibliotecas para trabalhar com as requisições das APIs.
 Mais detalhes (aqui)[#Uso-da-API]
 
+> npm install phosphor-react
+Biblioteca de icons utilizada neste projeto.
+
+> npm i date-fns
+Utilizaremos esta biblioteca para trabalhar com datas. Apesar do próprio JavaScript ter a sua própria API, elas costumam ser "limitadas".
+
 ## Uso da API (GraphCMS)
 
 Ao contrário do Rest e o próprio AXIOS, o Apollo está preparado para o uso do GraphQL.
