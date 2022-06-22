@@ -4,6 +4,11 @@ Este documento tem apontamentos sobre as vídeo-aulas passadas, comandos e até 
 Em futuras aulas, posso criar vários documentos para apontamentos a fim de deixar tudo organizado.<br>
 
 
+## Video-aulas - Commits
+1ª vídeo aula: 
+- Título: O início da especialização em ReactJS
+- Commit: 5992f8f9867d86dcb068f78cd9ea6d4606136c3a
+
 
 ## Apontamentos
 
