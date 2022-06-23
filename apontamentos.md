@@ -37,6 +37,17 @@ Biblioteca de icons utilizada neste projeto.
 > npm i date-fns
 Utilizaremos esta biblioteca para trabalhar com datas. Apesar do próprio JavaScript ter a sua própria API, elas costumam ser "limitadas".
 
+> npm i @vime/core @vime/react --force
+O Vime é uma biblioteca para player de vídeo.<br>
+Como o Vime utiliza o react v17, para instalar com o react mais recente, utilize o "--force", que forçará a instalação desta biblioteca.<br>
+A razão pela qual ele não tem suporte ao react mais recente (v18) é devido a uma freature chamada "streaming server side handling"
+
+> npm install react-router-dom
+Biblioteca mais famosa para lidar com roteamento em uma aplicação<br>
+Um roteamento nada mais é que uma aplicação ter a permissão de ter várias páginas
+
+
+
 ## Uso da API (GraphCMS)
 
 Ao contrário do Rest e o próprio AXIOS, o Apollo está preparado para o uso do GraphQL.
