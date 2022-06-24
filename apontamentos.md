@@ -17,6 +17,10 @@ Em futuras aulas, posso criar vários documentos para apontamentos a fim de deix
 - Título: Ignite Lab | Aula 3 • Roteamento e player da aula
 - Commit: 6f1bface076017bddaef3599625dd86eb1fb9423
 
+4ª vídeo-aula:
+- Título: Ignite Lab | Aula 4 • Inscrição via GraphQL
+- Commit: 80894c5f77986ac229f6bd8422c06f3a44a47911
+
 ## Apontamentos
 
 > npm create vite@latest
