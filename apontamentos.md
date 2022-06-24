@@ -51,6 +51,8 @@ A razão pela qual ele não tem suporte ao react mais recente (v18) é devido a 
 Biblioteca mais famosa para lidar com roteamento em uma aplicação<br>
 Um roteamento nada mais é que uma aplicação ter a permissão de ter várias páginas
 
+> npm install classnames
+
 
 
 ## Uso da API (GraphCMS)
