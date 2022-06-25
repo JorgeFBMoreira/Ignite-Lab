@@ -5,7 +5,7 @@ Em futuras aulas, posso criar vários documentos para apontamentos a fim de deix
 
 
 ## Video-aulas - Commits
-1ª vídeo aula: 
+1ª vídeo-aula: 
 - Título: Ignite Lab | Aula 1 • O início da especialização em ReactJS;
 - Commit: 5992f8f9867d86dcb068f78cd9ea6d4606136c3a.
 
@@ -20,6 +20,10 @@ Em futuras aulas, posso criar vários documentos para apontamentos a fim de deix
 4ª vídeo-aula:
 - Título: Ignite Lab | Aula 4 • Inscrição via GraphQL
 - Commit: 80894c5f77986ac229f6bd8422c06f3a44a47911
+
+5ª vídeo-aula
+- Título: Ignite Lab | Aula 5 • Deploy, CodeGen e próximos passos
+- Commit: 7a905a1a8663354d5a0ebe827cf077af0b684200
 
 
 
