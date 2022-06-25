@@ -21,6 +21,8 @@ Em futuras aulas, posso criar vários documentos para apontamentos a fim de deix
 - Título: Ignite Lab | Aula 4 • Inscrição via GraphQL
 - Commit: 80894c5f77986ac229f6bd8422c06f3a44a47911
 
+
+
 ## Apontamentos
 
 > npm create vite@latest
@@ -56,6 +58,10 @@ Biblioteca mais famosa para lidar com roteamento em uma aplicação<br>
 Um roteamento nada mais é que uma aplicação ter a permissão de ter várias páginas
 
 > npm install classnames
+
+> npm install @graphql-codegen/cli @graphql-codegen/typescript @graphql-codegen/typescript-operations @graphql-codegen/typescript-react-apollo -D
+GraphQL Code Generator: Esta biblioteca permitirá que o nosso VSCode, por exemplo, identifique se um dos campos passados pertence ao GraphCMS API. Exemplo prático:
+- Video: não pertence à nossa base de dados, porém, caso faça a query no vscode e execute ela no browser, ele não dará erro e não returnará nada.
 
 
 
@@ -95,6 +101,20 @@ useEffect(() => {
     })
 }, [])
 ```
+
+
+## Codegen
+
+Assim que tiver todos os arquivos, queries, mutations, etc finalizados, dê o seguinte comando:
+```cmd
+$ npm run codegen
+```
+
+Com o script inserido no package.json, ele vai procurar o "codegen" no node_modules e vai executar as instruções do `codegen.yml`.<br>
+Nele, como já definimos em que pastas e que arquivos ele deve procurar, ele vai criar um ficheiro com tudo que precisamos para usar na nossa aplicação
+
+
+
 
 ##### Termos
 
@@ -144,3 +164,10 @@ query MyQuery {
   }
 }
 ```
+
+
+
+## CLI do Github
+
+> gh repo create
+Cria um repositório no GitHub
